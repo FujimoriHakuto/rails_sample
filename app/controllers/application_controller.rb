@@ -3,6 +3,6 @@ class ApplicationController < ActionController::Base
   
   
   def hello
-    render html: "Hakuto Fujimori!"
+    render html: "Haruka"
   end
 end
